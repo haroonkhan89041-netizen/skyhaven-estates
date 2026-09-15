@@ -1,3 +1,5 @@
+import "./styles.css";
+
 const app=document.querySelector("#app");
 app.innerHTML=`
 <div class="loader"><div class="loader__line"></div><span>SKYHAVEN ESTATES</span></div><div class="cursor"></div><div class="cursor-dot"></div><div class="progress"></div>
